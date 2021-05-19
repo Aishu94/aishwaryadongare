@@ -179,7 +179,7 @@
                                             <li class="timeline-event">
                                                 <span class="timeline-circle"></span>
                                                 <div class="timeline-event-content">
-                                                    <b>2016 - 2016</b> Innovation IT Soulution (Nubis)- (Full Stack Developer Intern)
+                                                    <b>2016 - 2016</b> Innovation IT Soulution (Nubiz)- (Full Stack Developer Intern)
                                                 </div>
                                                 <div class="timeline-event-date">2016</div>
                                             </li>
@@ -228,21 +228,21 @@
                                             <div class="skill-holder">                                        
                                                 <div class="skill-text">                                            
                                                     <div class="skill">
-                                                        <div class="skill-fill" data-fill="75%"></div>   
+                                                        <div class="skill-fill" data-fill="80%"></div>   
                                                     </div>              
                                                     <span>HTML5, CSS3</span>
                                                 </div>                
-                                                <div class="skill-percent">75%</div>
+                                                <div class="skill-percent">80%</div>
                                             </div>
 
                                             <div class="skill-holder">                                        
                                                 <div class="skill-text">                                            
                                                     <div class="skill">
-                                                        <div class="skill-fill" data-fill="48%"></div>                                                   
+                                                        <div class="skill-fill" data-fill="75%"></div>                                                   
                                                     </div>              
                                                     <span>Javascript(jQuery, ES6S)</span>
                                                 </div>                                            
-                                                <div class="skill-percent">65%</div>
+                                                <div class="skill-percent">75%</div>
                                             </div>
                                         </div>
                                     </div>
@@ -252,7 +252,7 @@
                                             <div class="skill-holder">                                        
                                                 <div class="skill-text">                                            
                                                     <div class="skill">
-                                                        <div class="skill-fill" data-fill="90%"></div>                                                   
+                                                        <div class="skill-fill" data-fill="70%"></div>                                                   
                                                     </div>                                                
                                                     <span>PhP(Laravel)</span>
                                                 </div>                
@@ -262,11 +262,11 @@
                                             <div class="skill-holder">                                        
                                                 <div class="skill-text">                                            
                                                     <div class="skill">
-                                                        <div class="skill-fill" data-fill="62%"></div>                                                   
+                                                        <div class="skill-fill" data-fill="85%"></div>                                                   
                                                     </div>              
                                                     <span>Database(SQL)</span>
                                                 </div>                
-                                                <div class="skill-percent">75%</div>
+                                                <div class="skill-percent">85%</div>
                                             </div>                                    
                                         </div>
                                     </div>                                    
