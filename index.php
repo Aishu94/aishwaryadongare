@@ -24,12 +24,6 @@
             <div class="content-left">
                 <div class="content-left-wrapper">                     
                     <header>
-                        <div class="toggle-holder">
-                            <div id="toggle">
-                                <div class="menu-line"></div>
-                            </div>
-                        </div>  
-
                         <div class="top-pagination">
                             <div class="current-num">
                                 <span>01</span>                                    
@@ -50,7 +44,7 @@
 
                             <div class="my-info">
                                 <p class="my-info-title">EMAIL</p>
-                                <p class="my-info-content">aishwaryadongare.pune@gmail.com</p>
+                                <p class="my-info-content">adongare7@gmail.com</p>
                             </div>
 
                             <div class="my-info">
