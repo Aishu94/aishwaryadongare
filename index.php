@@ -36,23 +36,7 @@
                             </div>
                             <div class="pagination-div"></div>
                             <div class="total-pages-num"></div>
-                        </div>
-
-                        <div class="menu-holder">
-                            <div class="menu-wrapper relative">                                 
-                                <nav id="header-main-menu">
-                                    <ul class="main-menu sm sm-clean">
-                                        <li><a href="#home">Home</a></li>
-                                        <li><a href="#service">Service</a></li>
-                                        <li><a href="#portfolio">Portfolio</a></li>                                  
-                                        <li><a href="#resume">Resume</a></li>                                  
-                                        <li><a href="#skills">Skills</a></li>                                  
-                                        <li><a href="#contact">Contact</a></li>                                  
-                                    </ul>
-                                </nav>                            
-                            </div>
-                        </div>               
-
+                        </div>             
                         <div class="my-info-wrapper">
                             <div class="my-info">
                                 <p class="my-info-title">NAME</p>
