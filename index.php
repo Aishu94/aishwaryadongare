@@ -145,6 +145,30 @@
                                             </a>
                                         </div>
 
+                                        <div class="grid-item element-item p-one-third video">
+                                            <a class="item-link" href="tropicalweb.pdf" data-rel="prettyPhoto[portfolio]">
+                                                <img src="images/portfolio5.png" alt="" />
+                                                <div class="portfolio-text-holder">
+                                                    <div class="portfolio-text-wrapper">
+                                                        <p class="portfolio-text">Web Development</p>
+                                                        <p class="portfolio-cat">University Project-Tropical Treats</p>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+
+                                        <div class="grid-item element-item p-one-third video">
+                                            <a class="item-link" href="https://24acer.vytech.co/index.php" data-rel="prettyPhoto[portfolio]">
+                                                <img src="images/portfolio6.png" alt="" />
+                                                <div class="portfolio-text-holder">
+                                                    <div class="portfolio-text-wrapper">
+                                                        <p class="portfolio-text">Web Development</p>
+                                                        <p class="portfolio-cat">University Project- Real Estate Agency Website</p>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+
                                     </div>                
                                 </div>   
                             </div>
@@ -192,6 +216,10 @@
                                                 <div class="timeline-event-date">2013</div>
                                             </li>               
                                         </ul>
+
+                                        <div class="button-group-wrapper">
+                                            <a href="resumeAishwarya.pdf"class="button">Download CV</a> 
+                                        </div>
                                     </div>
 
                                     <div class="one-half width-40 last">
