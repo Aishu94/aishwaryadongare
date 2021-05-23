@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="newstyle.css">
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,700&display=swap" rel="stylesheet">
+</head>
+<body>
+	<section>
+		<h1>Maths Subtraction Quiz Game!!</h1>
+		<div class="centerdiv">
+			<div class="insertBox">
+				<div class="box1">
+					<input type="text" id="v1">
+				</div>
+				<div class="box1">
+					<p>-</p>
+				</div>
+				<div class="box1">
+					<input type="text" id="v2">
+				</div>
+			</div>
+
+			<div class="middleBox">
+				<input type="text" id="answ">
+			</div>
+			<div class="sentBox">
+				<button onclick="jsGame()">Click</button>
+			</div>
+		</div>
+	</section>
+
+	<script>
+		let n1= Math.floor(Math.random()*10+1);
+		let n2= Math.floor(Math.random()*10+1);
+
+		document.getElementById('v1').value=n1;
+		document.getElementById('v2').value=n2;
+
+		let ans=n1-n2;
+
+		const jsGame=()=>{
+			var usera=document.getElementById('answ').value;
+			if(usera==ans){
+				alert('	Well Done!');
+
+			}else{
+				alert("Correct answer is " + ans+ ". TryAgain!");
+			}
+            document.getElementById('answ').value="";
+			n1= Math.floor(Math.random()*10+1);
+		    n2= Math.floor(Math.random()*10+1);
+
+		document.getElementById('v1').value=n1;
+		document.getElementById('v2').value=n2;
+
+		 ans=n1-n2;
+
+		}
+
+
+	</script>
+
+</body>
+</html>
